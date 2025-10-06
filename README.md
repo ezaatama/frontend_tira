@@ -15,9 +15,11 @@ UI: Material Design 3
 # Default Credential
 
 DEFAULT_ADMIN_USERNAME=administrator
+
 DEFAULT_ADMIN_PASSWORD=admin
------------------------------
+
 DEFAULT_MEMBER_USERNAME=ezaatama
+
 DEFAULT_MEMBER_PASSWORD=user
 
 # Running
