@@ -28,4 +28,4 @@ Jalankan server node.js sebelum menjalankan emulator
 
 # Storage
 
-Excel file tersimpan di : /storage/emulated/0/Android/data/com.example.tira_fe/files/downloads/sales_data_1759726615988.xlsx
+Excel file tersimpan di : /storage/emulated/0/Android/data/com.example.tira_fe/files/downloads/sales_data_{timestamp}.xlsx
